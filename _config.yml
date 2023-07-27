@@ -32,7 +32,7 @@ github:
   username: li-yanhao # change to your github username
 
 twitter:
-  username: N/A # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
@@ -79,7 +79,7 @@ img_cdn:
 avatar: /assets/imgs/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
